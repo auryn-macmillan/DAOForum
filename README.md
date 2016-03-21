@@ -1,2 +1,6 @@
 # DAOForum
-Discussion on specifications and design of a forum for the DAO being created by slock.it
+This Repo will initially serve as a space to collaboratively brainstorm, discuss, and vet ideas for a platform for intra-DAO communication. The goal being to eventually build the project into a real working forum for holders of various DAO tokens that specifically addresses their communication needs.
+
+Please feel free to fork, raise issues, and submit pull requests.
+
+Real time  discussion is happening over at the slock.it slack on the DAO channel.
