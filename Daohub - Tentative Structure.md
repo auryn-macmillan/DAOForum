@@ -1,7 +1,6 @@
 *// I summarized some of the issues we've been discusssing into one doc, and included a few other things that occured to me while writing. The google doc below is the same link.
 We can keep the discussion going in the issue threads and use this file + the google doc to document the consensus. Take a read through it to make sure I didn't misrepresent anything and make edits as desired.*
 
-*// I made it all nice and markdown formatted but forgot it'd be formatted like this without push rights lol. Use the google doc for a cleaner read.
 https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit?usp=sharing
 
 # Daohub
