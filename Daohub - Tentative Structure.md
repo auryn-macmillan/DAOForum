@@ -62,7 +62,7 @@ A daohub will most likely require community moderation. To mitigate the possibil
 ## Other concerns
 
 ### DAO Splitting
-Daohubs will have to reflect their DAOs and be splittable, almost in real time. Large profile splits could be manually adjusted for, but it’s likely we’ll see smaller groups (<12 people) splitting off the from the parent DAO to form their own child DAOs and projects. If they have no holdings left in the parent DAO, they cannot be allowed to view it once the split is final.
+Daohubs will have to reflect their DAOs and be splittable, almost in real time. Large profile splits could be manually adjusted for, but it’s likely we’ll see smaller groups (<12 people) splitting off from the parent DAO to form their own child DAOs and projects. If they have no holdings left in the parent DAO, they cannot be allowed to view it once the split is final. Users who hold tokens on both sides of a split will have access to both hubs.
 
 In the event of a hostile breakup, we may want to include a feature that allows the parent DAO to raise the minimum stake required for viewing the parent daohub past the default 1 token/1 wei for the departing users. You could have scenarios where individuals will leave <1% of their holdings in the parent DAO just to spy. The alternative to this would be re-introducing minimum stake for viewing certain threads, but we came to a consensus that this wasn’t ideal. Thoughts? How do we approach a hostile breakup?
 
