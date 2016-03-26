@@ -2,8 +2,8 @@
 ### What is Daohub?
 A crowd communication and governance platform designed from the ground up specifically for use by an emerging wave of DAOs (decentralized autonomous organizations ).
 
-### What is a DAO?
-DAOs are blockchain based collaborative structures that are ‘automated at the center, humans at the edges’, complete with their own internal capital to allocate as they desire. This internal capital is spent by accepting/declining proposals - immutable, binding contracts - by people, businesses, and organizations (known as service providers) who wish to transact with the DAO.
+  ### What is a DAO?
+  DAOs are blockchain based collaborative structures that are ‘automated at the center, humans at the edges’, complete with their own internal capital to allocate as they desire. This internal capital is spent by accepting/declining proposals - immutable, binding contracts - by people, businesses, and organizations (known as service providers) who wish to transact with the DAO.
 
 ### Purpose
 Daohub will provide a platform to:
