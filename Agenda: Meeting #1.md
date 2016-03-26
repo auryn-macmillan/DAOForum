@@ -2,8 +2,6 @@
 ### This agenda will loosely follow the flow of "Daohub - Tentative Structure.md" by @cjharty
 The goal of this meeting begin the process of putting together a proposal to present to to the DAO. Ideally we would like to have this ready to present along with slock.it's proposal so that we can have them whitelist an ethereum account on our behalf. 
 
-## Core Details
-### What is Daohub?
 
 1. What is the goal/purpose of Daohub.
     * What problems do we want this to solve?
