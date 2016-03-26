@@ -5,7 +5,7 @@ A crowd communication and governance platform designed from the ground up specif
 ### What is a DAO?
 DAOs are blockchain based collaborative structures that are ‘automated at the center, humans at the edges’, complete with their own internal capital to allocate as they desire. This internal capital is spent by accepting/declining proposals - immutable, binding contracts - by people, businesses, and organizations (known as service providers) who wish to transact with the DAO.
 
-### Purpose
+### Purpose of Daohub
 Daohub will provide a platform to:
 * Establish and shape a DAOs social and cultural identity, ambitions, and purpose.
 Facilitate discussion and debate about the general direction of the use of its internal capital.
@@ -14,13 +14,13 @@ Facilitate discussion and debate about the general direction of the use of its i
 Reward meaningful contributions and disincentivize bad/wasteful ones.
 * *// Provide a mechanism for service providers to meet with and get feedback from the DAO prior to an official proposal - a virtual trade show of sorts. (Just thought about this, might be interesting).*
 
-### Governance
+### Daohub Governance
 Daohub is an open-source organization.
 Daohub will leverage a close relationship with the slock.it DAO, and build an initial product offering with the needs of the slock.it DAO in mind. 
 In due time, daohub will submit a proposal to the slock.it DAO as a service provider to build the platform for its use. If accepted, the slock.it DAO will fund the development of daohub in return for preferential rates and a % of all future revenue. 
 Daohub will then shop the platform around for use by other DAOs.
 
-### Access
+### Access to Daohub
 A DAO’s daohub will only be accessible by using that DAO’s unique token as a key. Members of the general public with no ties to a DAO will not be able to view its daohub.
 
  *// I was going to add ‘at least 1’ but I can see some scenarios in the future where 1 DAO token could be worth hundreds or thousands of dollars depending on supply and market cap. We’re in agreement that the barrier to entry should be low, which is what counts. It could be pegged to the equivalent of 1 wei or something along those lines.*
@@ -28,7 +28,7 @@ A DAO’s daohub will only be accessible by using that DAO’s unique token as a
 Each token can only be registered to one user account for the sake of transparency and to encourage full stake disclosure. 
 Thread creators (OPs) can set a minimum stake required to participate in the thread. However, all threads can be viewed by all members. 
 
-### Thread Sorting
+### Daohub Thread & Comment Sorting
 Comments in a thread can be sorted by day/week/month and weighted by:
 * Stake
 * Web of trust/reputation
@@ -44,11 +44,11 @@ Daohub will take a percentage of all discussion fee revenue as a platform fee (1
 
 *// All of the numbers here are very much up for debate. Just needed something to include for the time being.* 
 
-### Moderation
+### Daohub Moderation
 A daohub will most likely require community moderation. To mitigate the possibility of censorship or corruption, membership to the moderating team will be fluid. Members can vote mods in or out seamlessly.
 *// not sure what the preferred mechanism for that would be. Elections, the ability to be put up for impeachment after a certain threshold of user complaints so only the bad mods get the boot, etc*
 
-### Censorship Resistance
+### Daohub Censorship Resistance
 * Redundant, decentralized storage of daohub using Storj/IPFS
 * DDOS protection
 
