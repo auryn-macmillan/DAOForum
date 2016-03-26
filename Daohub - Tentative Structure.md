@@ -1,8 +1,3 @@
-*// I summarized some of the issues we've been discusssing into one doc, and included a few other things that occured to me while writing. The google doc below is the same link.
-We can keep the discussion going in the issue threads and use this file + the google doc to document the consensus. Take a read through it to make sure I didn't misrepresent anything and make edits as desired.*
-
-https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit?usp=sharing
-
 # Daohub
 ### What is Daohub?
 A crowd communication and governance platform designed from the ground up specifically for use by an emerging wave of DAOs (decentralized autonomous organizations ).
@@ -75,7 +70,8 @@ What is stopping someone from forking the eventual project, removing the % of tr
 
 Does daohub opt for a combination of discussion fees & value added services as its main source of revenue? I.e: the code for the core components are open source and can be forked and developed by anyone, but it keeps a suite of features closed source as well as offers support packages at an additional cost? Basically the Redhat model. 
 
-### How do you want to spell this?
-DAOhub, Daohub, daohub...drove me crazy while I was writing this. 
+### Collaborative Creation
+This document, and indeed the project itself is being created in a decentralised and collaborative fashion. Please feel free to leave comments here, on the #doa_hub forum slockit.slack.com (you can request an invite at slack.slock.it), or on the google doc linked below.
+https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit?usp=sharing
 
 
