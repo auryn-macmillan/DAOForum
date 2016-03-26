@@ -23,9 +23,9 @@ The goal of this meeting begin the process of putting together a proposal to pre
     * What will it cost us to produce an MVP?
     * How much funding would we seek from the DAO and what would this funding cost?
      * Estimate:
-       * Bare mininum cost.
-       * Burn rate.
-       * Ideal funding level.
+        * Bare mininum cost.
+        * Burn rate.
+        * Ideal funding level.
      * What funding milestones could we build into our proposal to the DAO?
 
 5. **DAO Proposal**
