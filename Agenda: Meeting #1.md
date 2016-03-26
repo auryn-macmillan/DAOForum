@@ -11,7 +11,7 @@ The goal of this meeting begin the process of putting together a proposal to pre
 
 2. How will Doahub be governed?
    * What potential models are available for governance, and what are the pros and cons for each?
-     * How much governance can we abstract out of human hands through the use of smart contracts?
+     * How much governance can we abstract out of human hands?
    * What do waht do we want the relationship between Daohub and the DAO to look like?
 
 3. What are the core features of the platform?
