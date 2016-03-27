@@ -12,7 +12,7 @@ Facilitate discussion and debate about the general direction of the use of its i
 * Examine and comb through the details of a service provider’s proposal line by line, complete with annotations that host sub-discussions about the section in question.
 * Allow thought leaders or groups within a DAO to rise and accrue influence organically.
 Reward meaningful contributions and disincentivize bad/wasteful ones.
-* *// Provide a mechanism for service providers to meet with and get feedback from the DAO prior to an official proposal - a virtual trade show of sorts. (Just thought about this, might be interesting).*
+* Provide a mechanism for service providers to meet with and get feedback from the DAO prior to an official proposal - a virtual trade show of sorts. (Just thought about this, might be interesting).
 
 ### Daohub Governance
 Daohub is an open-source organization.
@@ -22,8 +22,6 @@ Daohub will then shop the platform around for use by other DAOs.
 
 ### Access to Daohub
 A DAO’s daohub will only be accessible by using that DAO’s unique token as a key. Members of the general public with no ties to a DAO will not be able to view its daohub.
-
- *// I was going to add ‘at least 1’ but I can see some scenarios in the future where 1 DAO token could be worth hundreds or thousands of dollars depending on supply and market cap. We’re in agreement that the barrier to entry should be low, which is what counts. It could be pegged to the equivalent of 1 wei or something along those lines.*
  
 Each token can only be registered to one user account for the sake of transparency and to encourage full stake disclosure. 
 Thread creators (OPs) can set a minimum stake required to participate in the thread. However, all threads can be viewed by all members. 
@@ -40,19 +38,14 @@ Comments in a thread can be sorted by day/week/month and weighted by:
 Creating posts will cost the OP a small amount (1 - 5 cents), but will be enough to disincentivize spam posters. Replying to those threads will cost 1/10 of the OPs fee, creating child comments to these parent replies will cost even less, and upvoting/downvoting will be cheapest of all. The OP will receive the discussion fees from all of the main replies and thread upvotes, and commentators will receive discussion fees from their nested replies.
 
 In this way, comment threads will double as a mechanism to redistribute fees amongst participants. Meaningful contributions will be rewarded financially, creating incentives for high quality discourse and thoughtful discussion. 
-Daohub will take a percentage of all discussion fee revenue as a platform fee (1-3%), which will be a main source of revenue. 
-
-*// All of the numbers here are very much up for debate. Just needed something to include for the time being.* 
+Daohub will take a percentage of all discussion fee revenue as a platform fee (YTBD, but something like 1%), which will be a main source of revenue. 
 
 ### Daohub Moderation
-A daohub will most likely require community moderation. To mitigate the possibility of censorship or corruption, membership to the moderating team will be fluid. Members can vote mods in or out seamlessly.
-*// not sure what the preferred mechanism for that would be. Elections, the ability to be put up for impeachment after a certain threshold of user complaints so only the bad mods get the boot, etc*
+A daohub will most likely require community moderation. To mitigate the possibility of censorship or corruption, membership to the moderating team will be fluid. Members can vote mods in or out seamlessly. The exact method of voting is yet to be decided.
 
 ### Daohub Censorship Resistance
 * Redundant, decentralized storage of daohub using Storj/IPFS
 * DDOS protection
-
-*// There’s a lot that needs to be expanded upon here in due time.*
 
 ## Other concerns
 
