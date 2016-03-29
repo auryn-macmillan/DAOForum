@@ -67,4 +67,5 @@ Does daohub opt for a combination of discussion fees & value added services as i
 This document, and indeed the project itself is being created in a decentralised and collaborative fashion. Please feel free to leave comments here, on the #doa_hub forum slockit.slack.com (you can request an invite at slack.slock.it), or on the google doc linked below.
 https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit?usp=sharing
 
+Our next meeting is scheduled for 01 April 2016 20:00 UTC on [blab](https://blab.im/auryn-macmillan-meeting-2-first-meeting-redo-governance-stratergy-discussion)
 
