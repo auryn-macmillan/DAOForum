@@ -1,13 +1,13 @@
 # Agenda: Meeting #1
 ### This agenda will loosely follow the flow of "Daohub - Tentative Structure.md" by @cjharty
 We've copied the agenda from meeting #1, as the first meeting did not see the turnout we were hoping in order to generate a proper discussion.
-The goal of this meeting is to begin the process of putting together a proposal to present to to the DAO. Ideally we would like to have this ready to present along with Slock.it UG's proposal so that we can have them whitelist an ethereum account on our behalf. 
+The goal of this meeting is to begin the process of putting together a proposal to present to the DAO. Ideally we would like to have this ready to present along with Slock.it UG's proposal so that we can have them whitelist an ethereum account on our behalf. 
 
 
 1. **What is the goal/purpose of Daohub?**
     * What problems do we want this to solve?
     * Who are the target users?
-    * Does something exists already to solve these problems for these users?
+    * Does something exist already to solve these problems for these users?
     * Does Daohub intend to generate a profit? If so, for who?
 
 2. **How will Daohub be governed?**
@@ -31,5 +31,5 @@ The goal of this meeting is to begin the process of putting together a proposal 
 
 5. **DAO Proposal**
     * What does the DAO get for its investment?
-    * What other details details do we need to include in the proposal?
+    * What other details do we need to include in the proposal?
   
