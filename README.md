@@ -56,13 +56,6 @@ In the event of a hostile breakup, we may want to include a feature that allows 
 
  Daohub should also recognize that a new group of tokens has been generated create a forum accordingly. This could get very complicated, very quickly. 
 
-### Open-Source Model & Discussion Fee Revenue
-Ideally we would all want the project to be 100% open source. If it was self-funded, this would be a no-brainer, and there seemed to be consensus about this. However, daohub needs to provide an adequate return to the slock.it DAO. Slock.it can make it’s Ethereum Computer code open source primarily because A) the barriers to entry for a physical product are much higher than software B) the slock will leverage the network effect to make it advantageous to go with the incumbent, in this case the EC/slock.it DAO. Daohub won’t have these advantages.
-
-What is stopping someone from forking the eventual project, removing the % of transaction fees that go to the slock.it DAO, and re-releasing the code under a new name? These are questions that would be asked if daohub ever sought out funds from the slock.it DAO. 
-
-Does daohub opt for a combination of discussion fees & value added services as its main source of revenue? I.e: the code for the core components are open source and can be forked and developed by anyone, but it keeps a suite of features closed source as well as offers support packages at an additional cost? Basically the Redhat model. 
-
 ### Collaborative Creation
 This document, and indeed the project itself is being created in a decentralised and collaborative fashion. Please feel free to leave comments here, on the #doa_hub forum slockit.slack.com (you can request an invite at slack.slock.it), or on the google doc linked below.
 https://docs.google.com/document/d/1hHX_ftHc1B84yiHpGPToCLFeORaRIVy7mR_Hh1PqSus/edit?usp=sharing
